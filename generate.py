@@ -113,7 +113,7 @@ def main():
         counter += 1
 
 if __name__ == "__main__":
-    NUMBER_OF_IMGS = 1040
+    NUMBER_OF_IMGS = 1
     PATH_TO_FONTS = os.getcwd() + "/farsi_fonts"
     # PATH_TO_FONTS = os.getcwd() + "/eng_fonts"
     PATH_TO_GENERATED_IMAGES = os.path.join(os.getcwd() , "images")
